@@ -1,4 +1,4 @@
-![Astrial](https://www.systemelectronics.ai/sites/system-electronics/files/styles/style_w960/public/components/component7/_D1A8362mm.jpg?itok=4A8iLaYT)
+![Astrial](astrial_small.jpg)
 # Embedded Linux for ASTRIAL SoM 
 Quickly get your ASTRIAL started with the full-featured and energy-efficient i.MX family and Hailo-8 neural network processor. Our goal is to provide you with a comprehensive Linux environment that is easy to develop your designs with thus reducing your time to market.
 
