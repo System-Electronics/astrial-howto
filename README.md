@@ -6,6 +6,7 @@ Quickly get your ASTRIAL started with the full-featured and energy-efficient i.M
 link .pdf **TBD**  
 
 ## Software Releases
+Below is a list of all the linux releases available for ASTRIAL. Each release has a dedicated github repo, prebuilt images (for testing purposes) and some custom demos and tutorials.
 ### Yocto/Kirkstone (LTS until APR 2026)
 > #### Prebuilt Images
 > download link **TBD**  
