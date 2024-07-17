@@ -1,4 +1,9 @@
-![Astrial](astrial_small.jpg)
+<p align="center">
+  <img src="astrial_small.jpg"/>
+</p>
+
+----
+
 # Embedded Linux for ASTRIAL SoM 
 Quickly get your ASTRIAL started with the full-featured and energy-efficient i.MX family and Hailo-8 neural network processor. Our goal is to provide you with a comprehensive Linux environment that is easy to develop your designs with thus reducing your time to market.
 
@@ -20,4 +25,4 @@ Below is a list of all the linux releases available for ASTRIAL. Each release ha
 > mettere il link a lvideo su youtube qua! **TBD**  
 > If you want to learn how to replicate our official demo see instructions here: [astrial dobot demo](https://github.com/System-Electronics/astrial_dobot_demo_ew2024).
 > #### Astrial Tutorials
-> If you want to learn how to run our tutorials, please see instruction at the link: [astrial tutorials](https://github.com/System-Electronics/astrial_tutorials)
+> If you want to learn how to run our tutorials, please see instructions at the link: [astrial tutorials](https://github.com/System-Electronics/astrial_tutorials)
