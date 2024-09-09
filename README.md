@@ -14,7 +14,7 @@ link .pdf **TBD**
 On Hackster.io you will find step-by-step tutorials for simple task on Astrial. Each tutorial has a video explanation too. See the Hackster.io main page here: [https://www.hackster.io/andrea-torlai](https://www.hackster.io/andrea-torlai)
 
 <p align="center">
-  <img src="astrial_hackster.jpg"/>
+  [<img src="astrial_hackster.jpg"/>](https://www.hackster.io/andrea-torlai)
 </p>
 
 ## Software Releases
