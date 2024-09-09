@@ -13,6 +13,10 @@ link .pdf **TBD**
 ## Tutorials
 On Hackster.io you will find step-by-step tutorials for simple task on Astrial. Each tutorial has a video explanation too. See the Hackster.io main page here: [https://www.hackster.io/andrea-torlai](https://www.hackster.io/andrea-torlai)
 
+<p align="center">
+  <img src="astrial_hackster.jpg"/>
+</p>
+
 ## Software Releases
 Below is a list of all the linux releases available for ASTRIAL. Each release has a dedicated github repo, prebuilt images (for testing purposes) and some custom demos and tutorials.
 ### Yocto/Kirkstone (LTS until APR 2026)
