@@ -11,7 +11,7 @@ Quickly get your ASTRIAL started with the full-featured and energy-efficient i.M
 link .pdf **TBD**  
 
 ## Tutorials
-On Hackster.io you will find step-by-step tutorials for simple task on Astrial. Each tutorial has a video explanation too. See the Hackster.io main page here: (https://www.hackster.io/andrea-torlai)[https://www.hackster.io/andrea-torlai]
+On Hackster.io you will find step-by-step tutorials for simple task on Astrial. Each tutorial has a video explanation too. See the Hackster.io main page here: [https://www.hackster.io/andrea-torlai](https://www.hackster.io/andrea-torlai)
 
 ## Software Releases
 Below is a list of all the linux releases available for ASTRIAL. Each release has a dedicated github repo, prebuilt images (for testing purposes) and some custom demos and tutorials.
