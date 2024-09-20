@@ -8,7 +8,7 @@
 Quickly get your ASTRIAL started with the full-featured and energy-efficient i.MX family and Hailo-8 neural network processor. Our goal is to provide you with a comprehensive Linux environment that is easy to develop your designs with thus reducing your time to market.
 
 ## Hardware Documentation
-link .pdf **TBD**  
+Soon available.  
 
 ## Tutorials
 On Hackster.io you will find step-by-step tutorials for simple task on Astrial. Each tutorial has a video explanation too. See the Hackster.io main page here: [https://www.hackster.io/andrea-torlai](https://www.hackster.io/andrea-torlai)
@@ -23,7 +23,7 @@ Below is a list of all the linux releases available for ASTRIAL. Each release ha
 
 <details>
 <summary>Prebuilt Images </summary>
-download link **TBD**  
+Link for download will be soon available.
   
 See the detail howto on Hackster.io bringup:
   
