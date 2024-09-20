@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="astrial_small.jpg"/>
+  <img src="resources/astrial_small.jpg"/>
 </p>
 
 ----
@@ -14,7 +14,7 @@ link .pdf **TBD**
 On Hackster.io you will find step-by-step tutorials for simple task on Astrial. Each tutorial has a video explanation too. See the Hackster.io main page here: [https://www.hackster.io/andrea-torlai](https://www.hackster.io/andrea-torlai)
 
 
-  [<img src="astrial_hackster.jpg"/>](https://www.hackster.io/andrea-torlai)
+  [<img src="resources/astrial_hackster.jpg"/>](https://www.hackster.io/andrea-torlai)
 
 
 ## Software Releases
@@ -48,7 +48,7 @@ here is the video on youtube:
 
 [https://www.youtube.com/watch?v=RwSaMLdL3Fw](https://www.youtube.com/watch?v=RwSaMLdL3Fw)
 
-[<img src="astrial_robot-arm_demo_001.jpg"/>](https://www.youtube.com/watch?v=RwSaMLdL3Fw)
+[<img src="resources/astrial_robot-arm_demo_001.jpg"/>](https://www.youtube.com/watch?v=RwSaMLdL3Fw)
 
 If you want to learn how to replicate our official demo see instructions here: [astrial dobot demo](https://github.com/System-Electronics/astrial_dobot_demo_ew2024).
 </details>
