@@ -28,8 +28,13 @@ Below is a list of all the linux releases available for ASTRIAL. Each release ha
 > #### Yocto Build Guidelines
 > If you want to build an customize your yocto/linux build see the details on page: [astrial meta layer](https://github.com/System-Electronics/meta-sysele-nxp-5.15.71).
 > #### Astrial Official Demo
-> gesture control for robotic arm  
-> mettere il link a lvideo su youtube qua! **TBD**  
+> The Astrial official demo for Embedded World 2024 is a gesture control for a robotic arm.
+> here is the video on youtube:
+> 
+> [https://www.youtube.com/watch?v=RwSaMLdL3Fw](https://www.youtube.com/watch?v=RwSaMLdL3Fw)
+>
+> [<img src="astrial_robot-arm_demo_001.jpg"/>](https://www.youtube.com/watch?v=RwSaMLdL3Fw)
+>
 > If you want to learn how to replicate our official demo see instructions here: [astrial dobot demo](https://github.com/System-Electronics/astrial_dobot_demo_ew2024).
 > #### Astrial Tutorials
 > If you want to learn how to run our tutorials, please see instructions at the link: [astrial tutorials](https://github.com/System-Electronics/astrial_tutorials)
