@@ -10,7 +10,7 @@ Quickly get your ASTRIAL started with the full-featured and energy-efficient i.M
 # Astrial channels
 Follow us on the main website [www.astrial.ai](http://www.astrial.ai) and on social media for the latest news on edge@ai :
 
-[<img src="resources/astrial_logo_mini.png"/>](https://www.astrial.ai/) [<img src="resources/hackster.png"/>](https://www.hackster.io/andrea-torlai) [<img src="resources/yt.png"/>](https://www.youtube.com/@systemelectronics1514)[<img src="resources/linkedin.png"/>](https://www.linkedin.com/showcase/system-electronics-/)
+[<img src="resources/astrial_logo_mini.png"/>](http://www.astrial.ai/) [<img src="resources/hackster.png"/>](https://www.hackster.io/andrea-torlai) [<img src="resources/yt.png"/>](https://www.youtube.com/@systemelectronics1514)[<img src="resources/linkedin.png"/>](https://www.linkedin.com/showcase/system-electronics-/)
 
 
 
