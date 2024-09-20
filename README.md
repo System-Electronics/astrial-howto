@@ -55,5 +55,8 @@ If you want to learn how to replicate our official demo see instructions here: [
 
 <details>
 <summary>Astrial Tutorials</summary>
-If you want to learn how to run our tutorials, please see instructions at the link: [astrial tutorials](https://github.com/System-Electronics/astrial_tutorials)
+If you want to learn how to run our tutorials, please see instructions at the link: 
+
+[astrial tutorials](https://github.com/System-Electronics/astrial_tutorials)
+
 </details>
