@@ -8,7 +8,7 @@
 Quickly get your ASTRIAL started with the full-featured and energy-efficient i.MX family and Hailo-8 neural network processor. Our goal is to provide you with a comprehensive Linux environment that is easy to develop your designs with thus reducing your time to market.
 
 # Astrial channels
-Follow us on the main website [www.astrial.ai](http://www.astrial.ai) and on social media for the latest news on edge@ai :
+Follow us on the main website [www.astrial.ai](http://www.astrial.ai) and on social media for the latest news on ai@edge :
 
 [<img src="resources/astrial_logo_mini.png"/>](http://www.astrial.ai/) [<img src="resources/hackster.png"/>](https://www.hackster.io/andrea-torlai) [<img src="resources/yt.png"/>](https://www.youtube.com/@systemelectronics1514)[<img src="resources/linkedin.png"/>](https://www.linkedin.com/showcase/system-electronics-/)
 
