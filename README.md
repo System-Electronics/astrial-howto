@@ -38,7 +38,8 @@ To properly bringup your board and install the prebuiltimage see the detail howt
   
 [Bringup Guidelines](https://www.hackster.io/andrea-torlai/astrial-bringup-guidelines-6f8423)  
 
- 
+ IMPORTANT: if your board has been installed already you will have to erase the emmc before flashing the new one.
+ See the detail of the [astrial-yocto-install](https://github.com/System-Electronics/meta-sysele-nxp-5.15.71/blob/main/ASTRIAL-YOCTO-INSTALL.md) here: [Board Programming](https://github.com/System-Electronics/meta-sysele-nxp-5.15.71/blob/main/ASTRIAL-YOCTO-INSTALL.md#board-programming)
 
 _DISCLAMER: prebuilt images are provided for testing purpose only, not intended for final production_.
 </details>
