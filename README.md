@@ -30,15 +30,15 @@ Below is a list of all the linux releases available for ASTRIAL. Each release ha
 
 <details>
 <summary>Prebuilt Images </summary>
-If you want to download prebuilt images of Astrial BSP to flash your board you can get them from the SystemElectronics sharepoint.
+Use our prebuilt images for a quick jumpstart of your system, you can download the files from the SystemElectronics sharepoint.
 
-click [HERE](https://coesia.sharepoint.com/sites/systemelectronics_ai_ftp/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fsystemelectronics%5Fai%5Fftp%2FShared%20Documents%2FSharingArea&p=true&ga=1) to access the sharepoint and download the release you are looing for.
+click [HERE](https://coesia.sharepoint.com/sites/systemelectronics_ai_ftp/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fsystemelectronics%5Fai%5Fftp%2FShared%20Documents%2FSharingArea&p=true&ga=1) to access the sharepoint and download the release you are looking for.
   
-See the detail howto on Hackster.io bringup:
+To properly bringup your board and install the prebuiltimage see the detail howto on Hackster.io bringup:
   
 [Bringup Guidelines](https://www.hackster.io/andrea-torlai/astrial-bringup-guidelines-6f8423)  
 
-Use our prebuilt images for a quick jumpstart of your system.  
+ 
 
 _DISCLAMER: prebuilt images are provided for testing purpose only, not intended for final production_.
 </details>
