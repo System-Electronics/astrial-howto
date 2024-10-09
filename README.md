@@ -32,7 +32,8 @@ Below is a list of all the linux releases available for ASTRIAL. Each release ha
 <summary>Prebuilt Images </summary>
 Use our prebuilt images for a quick jumpstart of your system, you can download the files from the SystemElectronics sharepoint.
 
-Click [SysEle-Sharepoint](https://coesia.sharepoint.com/sites/systemelectronics_ai_ftp/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fsystemelectronics%5Fai%5Fftp%2FShared%20Documents%2FSharingArea&p=true&ga=1) to access the sharepoint and download the release you are looking for.
+Click [SysEle-Sharepoint](https://coesia.sharepoint.com/:f:/s/systemelectronics_ai_ftp/EoEh2naiznZFreJtwZs2nucBY0I14Uj7lH1TAlr6h7WKFg?e=7ybMh5) to 
+access the sharepoint and download the release you are looking for.
   
 To properly bringup your board and install the prebuiltimage see the detail howto on Hackster.io bringup:
   
