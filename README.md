@@ -25,7 +25,7 @@ On Hackster.io you will find step-by-step tutorials for simple task on Astrial. 
 
 
 ## Software Releases
-Below is a list of all the linux releases available for ASTRIAL. Each release has a dedicated github repo, prebuilt images (for testing purposes) and some custom demos and tutorials.
+Below is a list of all the linux BSP (board support package) releases available for ASTRIAL. Each release has a dedicated github repo, prebuilt images (for testing purposes) and some custom demos and tutorials.
 ### Yocto/Kirkstone (LTS until APR 2026)
 
 <details>
