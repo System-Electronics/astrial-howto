@@ -14,7 +14,7 @@ Follow us on the main website [www.astrial.ai](http://www.astrial.ai) and on soc
 
 
 
-## Hardware Documentation
+## Documentation
 Astrial is made of two main components: NXP i.mx8-m-plus CPU and the Hailo-8 co-processor. For this reason the documentation is given as a collections of documents.
 
 From the official Astrial website you can retrieve the hardware schematics and the opering guide: [astrial documents](https://www.systemelectronics.ai/en/documents)
