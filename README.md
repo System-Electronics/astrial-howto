@@ -28,7 +28,7 @@ Here is an example of the file structure for release v.1.1.0:
 
 If you want to customize and compile your own neural networks you will need the Hailo documentation for Data Flow Compiler DFC. Installing the SDK on your linux/x86 machine (docker, see Hailo documentations) you will be able to parse, optimize and train your ONNX and TFlite files. Once compiled you will get the binary ".hef" file to be used on Astrial with the HailoRT (run time library)  
 
-If you are working with video streams do not forget to read the specific GStreamer User Guide that will allow you to leverage hw acceleration for video encode/decode/mux, see the link here: (NXP Gstreamer USer Guide)[https://community.nxp.com/pwmxy87654/attachments/pwmxy87654/imx-processors%40tkb/15/2/i.MX8GStreamerUserGuide.pdf]
+If you are working with video streams do not forget to read the specific GStreamer User Guide that will allow you to leverage hw acceleration for video encode/decode/mux, see the link here: [NXP Gstreamer USer Guide](https://community.nxp.com/pwmxy87654/attachments/pwmxy87654/imx-processors%40tkb/15/2/i.MX8GStreamerUserGuide.pdf)
 
 ## Tutorials
 On Hackster.io you will find step-by-step tutorials for simple task on Astrial. Each tutorial has a video explanation too. See the Hackster.io main page here: [https://www.hackster.io/andrea-torlai](https://www.hackster.io/andrea-torlai)
