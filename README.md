@@ -15,7 +15,18 @@ Follow us on the main website [www.astrial.ai](http://www.astrial.ai) and on soc
 
 
 ## Hardware Documentation
-Soon available.  
+Astrial is made of two main components: NXP i.mx8-m-plus CPU and the Hailo-8 co-processor. For this reason the documentation is given as a collections of documents.
+
+From the official Astrial website you can retrieve the hardware schematics and the opering guide: [astrial documents](https://www.systemelectronics.ai/en/documents)
+
+For your convenience you can also find the extra documents for NXP and Hailo into the download section of Astrial website (togheter with the prebuilt yocto release).
+Since for each release the NXP and Hailo toolchain might have changed version you will always find these files in the same folder of the download section [astrial downloads](https://coesia.sharepoint.com/:f:/s/systemelectronics_ai_ftp/EoEh2naiznZFreJtwZs2nucBY0I14Uj7lH1TAlr6h7WKFg?e=7ybMh5)
+
+Here is an example of the file structure for release v.1.1.0:
+
+<img src="resources/astrial_downloads_example.png" width=50%>
+
+If you are working with video streams do not forget to read the specific GStreamer User Guide that will allow you to leverage hw acceleration for video encode/decode/mux, see the link here: (NXP Gstreamer USer Guide)[https://community.nxp.com/pwmxy87654/attachments/pwmxy87654/imx-processors%40tkb/15/2/i.MX8GStreamerUserGuide.pdf]
 
 ## Tutorials
 On Hackster.io you will find step-by-step tutorials for simple task on Astrial. Each tutorial has a video explanation too. See the Hackster.io main page here: [https://www.hackster.io/andrea-torlai](https://www.hackster.io/andrea-torlai)
