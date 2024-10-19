@@ -36,6 +36,9 @@ On Hackster.io you will find step-by-step tutorials for simple task on Astrial. 
 
   [<img src="resources/astrial_hackster.jpg"/>](https://www.hackster.io/andrea-torlai)
 
+## Communities
+Being a platform based on both NXP i.mx8m-plus and Hailo H8, Astrial users can leverage both communities for questions outside of the documentation and available examples.
+For NXP imx8 you can refer to [NXP imx8 community](https://community.nxp.com//?profile.language=en). For Hailo you can refert to [Hailo-8 community](https://community.hailo.ai/tag/hailo8)
 
 ## Software Releases
 Below is a list of all the linux BSP (board support package) releases available for ASTRIAL. Each release has a dedicated github repo, prebuilt images (for testing purposes) and some custom demos and tutorials.
