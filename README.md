@@ -24,7 +24,7 @@ Since for each release the NXP and Hailo toolchain might have changed version yo
 
 Here is an example of the file structure for release v.1.1.0:
 
-<img src="resources/astrial_downloads_example.png" width=50%>
+<img src="resources/astrial_ftp_example.jpg" width=50%>
 
 If you want to customize and compile your own neural networks you will need the Hailo documentation for Data Flow Compiler DFC. Installing the SDK on your linux/x86 machine (docker, see Hailo documentations) you will be able to parse, optimize and train your ONNX and TFlite files. Once compiled you will get the binary ".hef" file to be used on Astrial with the HailoRT (run time library)  
 
