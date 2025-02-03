@@ -87,3 +87,11 @@ If you want to learn how to run our tutorials, please see instructions at the li
 [astrial tutorials](https://github.com/System-Electronics/astrial_tutorials)
 
 </details>
+
+<details>
+<summary>Encrypted storage</summary>
+If you want to learn how to encrypt storage on Astrial, please see the example at the link: 
+
+[encrypted storage](https://github.com/System-Electronics/meta-sysele-nxp-5.15.71/blob/main/ASTRIAL-ENCRYPTED-STORAGE.md)
+
+</details>
