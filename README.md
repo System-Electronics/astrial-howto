@@ -22,7 +22,7 @@ From the official Astrial website you can retrieve the hardware schematics and t
 For your convenience you can also find the extra documents for NXP and Hailo into the download section of Astrial website (togheter with the prebuilt yocto release).
 Since for each release the NXP and Hailo toolchain might have changed version you will always find these files in the same folder of the download section [astrial downloads](https://coesia.sharepoint.com/:f:/s/systemelectronics_ai_ftp/EoEh2naiznZFreJtwZs2nucBY0I14Uj7lH1TAlr6h7WKFg?e=7ybMh5)
 
-Here is an example of the file structure for release v.1.1.0:
+Here is an example of the file structure for release v.1.1.1:
 
 <img src="resources/astrial_ftp_example.jpg" width=50%>
 
