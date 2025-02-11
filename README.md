@@ -89,9 +89,13 @@ If you want to learn how to run our tutorials, please see instructions at the li
 </details>
 
 <details>
-<summary>Encrypted storage</summary>
-If you want to learn how to encrypt storage on Astrial, please see the example at the link: 
+<summary>Ecrypting Guidelines</summary>
+If you want to learn how to encrypt storage on Astrial, please see the example at the link:
 
 [encrypted storage](https://github.com/System-Electronics/meta-sysele-nxp-5.15.71/blob/main/ASTRIAL-ENCRYPTED-STORAGE.md)
+
+If you want to learn how to use the cryptochip SE050, please see the guide at the link:
+
+[edgelock se050](https://github.com/System-Electronics/meta-sysele-nxp-5.15.71/blob/main/ASTRIAL-SE05x.md)
 
 </details>
