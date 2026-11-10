@@ -91,7 +91,7 @@ For MicroSD programming, the bootloader is already included in the image.
 Read `RELEASE NOTES.txt` and verify the supplied checksums before programming.
 
 Follow the Scarthgap
-[Board Programming guide](https://github.com/System-Electronics/meta-sysele-nxp-6.6.52/blob/main/ASTRIAL-YOCTO-INSTALL.md#board-programming)
+[Board Programming guide](https://github.com/System-Electronics/meta-sysele-astrial-imx8/blob/scarthgap/ASTRIAL-YOCTO-INSTALL.md#board-programming)
 for installation instructions.
 
 _Pre-built images are provided for evaluation and testing purposes,
@@ -103,9 +103,9 @@ not for final production use._
 <summary>Yocto Build Guidelines</summary>
 
 To build or customize the Scarthgap image, use the
-[Astrial Scarthgap BSP repository](https://github.com/System-Electronics/meta-sysele-nxp-6.6.52)
+[Astrial Scarthgap BSP repository](https://github.com/System-Electronics/meta-sysele-astrial-imx8/tree/scarthgap)
 and follow its
-[Yocto build instructions](https://github.com/System-Electronics/meta-sysele-nxp-6.6.52/blob/main/ASTRIAL-YOCTO-INSTALL.md).
+[Yocto build instructions](https://github.com/System-Electronics/meta-sysele-astrial-imx8/blob/scarthgap/ASTRIAL-YOCTO-INSTALL.md).
 
 The guide covers the available 2 GB, 4 GB and 8 GB RAM configurations.
 
@@ -115,16 +115,16 @@ The guide covers the available 2 GB, 4 GB and 8 GB RAM configurations.
 <summary>Display Configuration</summary>
 
 For instructions on enabling the DSI display interface, see
-[Enable DSI](https://github.com/System-Electronics/meta-sysele-nxp-6.6.52/blob/main/ASTRIAL-ENABLE-DSI.md).
+[Enable DSI](https://github.com/System-Electronics/meta-sysele-astrial-imx8/blob/scarthgap/ASTRIAL-ENABLE-DSI.md).
 
 </details>
 
 <details>
 <summary>Security Guidelines</summary>
 
-- [Build a secure boot image](https://github.com/System-Electronics/meta-sysele-nxp-6.6.52/blob/main/ASTRIAL-YOCTO-INSTALL.md#build-secure-boot-image).
-- [Encrypted storage](https://github.com/System-Electronics/meta-sysele-nxp-6.6.52/blob/main/ASTRIAL-ENCRYPTED-STORAGE.md).
-- [SE050 cryptochip](https://github.com/System-Electronics/meta-sysele-nxp-6.6.52/blob/main/ASTRIAL-SE05x.md).
+- [Build a secure boot image](https://github.com/System-Electronics/meta-sysele-astrial-imx8/blob/scarthgap/ASTRIAL-YOCTO-INSTALL.md#build-secure-boot-image).
+- [Encrypted storage](https://github.com/System-Electronics/meta-sysele-astrial-imx8/blob/scarthgap/ASTRIAL-ENCRYPTED-STORAGE.md).
+- [SE050 cryptochip](https://github.com/System-Electronics/meta-sysele-astrial-imx8/blob/scarthgap/ASTRIAL-SE05x.md).
 
 </details>
 
@@ -149,7 +149,7 @@ To properly bringup your board and install the prebuiltimage see the detail howt
 [Bringup Guidelines](https://www.hackster.io/andrea-torlai/astrial-bringup-guidelines-6f8423)  
 
 For eMMC programming, follow the
-[Board Programming guide](https://github.com/System-Electronics/meta-sysele-nxp-5.15.71/blob/main/ASTRIAL-YOCTO-INSTALL.md#board-programming), including the steps required to enter USB-OTG programming mode.
+[Board Programming guide](https://github.com/System-Electronics/meta-sysele-astrial-imx8/blob/kirkstone/ASTRIAL-YOCTO-INSTALL.md#board-programming), including the steps required to enter USB-OTG programming mode.
 
 _Pre-built images are provided for evaluation and testing purposes, not for final production use._
 
@@ -159,7 +159,7 @@ _Pre-built images are provided for evaluation and testing purposes, not for fina
 <summary>Yocto Build Guidelines</summary>
 If you want to build an customize your yocto/linux build see the details on page: 
 
-[astrial meta layer](https://github.com/System-Electronics/meta-sysele-nxp-5.15.71).
+[astrial meta layer](https://github.com/System-Electronics/meta-sysele-astrial-imx8/tree/kirkstone).
 
 </details>
 
@@ -180,7 +180,7 @@ If you want to learn how to replicate our official demo see instructions here: [
 <summary>Astrial Tutorials</summary>
 If you want to learn how to run our tutorials, please see instructions at the link: 
 
-[astrial tutorials](https://github.com/System-Electronics/astrial_tutorials)
+[astrial tutorials](https://github.com/System-Electronics/astrial-tutorials)
 
 </details>
 
@@ -188,14 +188,14 @@ If you want to learn how to run our tutorials, please see instructions at the li
 <summary>Security Guidelines</summary>
 If you want to learn how to build a secure boot image, please see the following section of the main guide:
 
-[secure boot](https://github.com/System-Electronics/meta-sysele-nxp-5.15.71/blob/main/ASTRIAL-YOCTO-INSTALL.md#build-secure-boot-image).
+[secure boot](https://github.com/System-Electronics/meta-sysele-astrial-imx8/blob/kirkstone/ASTRIAL-YOCTO-INSTALL.md#build-secure-boot-image).
 
 If you want to learn how to encrypt storage on Astrial, please see the example at the link:
 
-[encrypted storage](https://github.com/System-Electronics/meta-sysele-nxp-5.15.71/blob/main/ASTRIAL-ENCRYPTED-STORAGE.md).
+[encrypted storage](https://github.com/System-Electronics/meta-sysele-astrial-imx8/blob/kirkstone/ASTRIAL-ENCRYPTED-STORAGE.md).
 
 If you want to learn how to use the cryptochip SE050, please see the guide at the link:
 
-[edgelock se050](https://github.com/System-Electronics/meta-sysele-nxp-5.15.71/blob/main/ASTRIAL-SE05x.md).
+[edgelock se050](https://github.com/System-Electronics/meta-sysele-astrial-imx8/blob/kirkstone/ASTRIAL-SE05x.md).
 
 </details>
